@@ -1,0 +1,22 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øâ­µıÿÿÿÿ8›ãÄ•Ø1
+d
+java:S2184c"BCast one of the operands of this division operation to a "double".(Ê¯°âÿÿÿÿÿ8ãÄ•Ø1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êŒ¯‹8ãÄ•Ø1
+n
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ£áœüÿÿÿÿ8İãÄ•Ø1
+n
+java:S3008	"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ£áœüÿÿÿÿ8İãÄ•Ø1
+n
+java:S3008	"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ£áœüÿÿÿÿ8İãÄ•Ø1
+`
+java:S1659	">Declare "M" and all following declarations on a separate line.(Ğ£áœüÿÿÿÿ8ŞãÄ•Ø1
+L	java:S106="+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8ããÄ•Ø1
+b
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(Ì£¼8ããÄ•Ø1
+g
+java:S1124R"EReorder the modifiers to comply with the Java Language Specification.(ıÄ¸Çÿÿÿÿÿ8äãÄ•Ø1
+b
+java:S1124`"EReorder the modifiers to comply with the Java Language Specification.(ÇƒÔŞ8äãÄ•Ø1
+N
+java:S2185c",Remove this unnecessary call to "Math.floor"(Ê¯°âÿÿÿÿÿ8äãÄ•Ø1

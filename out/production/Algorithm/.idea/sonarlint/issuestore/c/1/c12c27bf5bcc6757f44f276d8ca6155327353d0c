@@ -1,0 +1,22 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üšÃóùÿÿÿÿ8íËĞ‰Ô1
+r	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ƒì’şÿÿÿÿ8ïËĞ‰Ô1
+l	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı£©#8ğËĞ‰Ô1
+m	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çã‘‰8ñËĞ‰Ô1
+m	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÄäª8òËĞ‰Ô1
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔßÅ8ôËĞ‰Ô1
+r	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÒÏşÿÿÿÿ8õËĞ‰Ô1
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÄ½µÿÿÿÿÿ8öËĞ‰Ô1
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÄ½µÿÿÿÿÿ8øËĞ‰Ô1
+E
+java:S1604"(Make this anonymous inner class a lambda(æÛİ8ùËĞ‰Ô1
+i	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´ê˜Ş8ûËĞ‰Ô1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ê¼·8ıËĞ‰Ô1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8èÌĞ‰Ô1
+]	java:S125"<This block of commented-out lines of code should be removed.(‚±Í’ıÿÿÿÿ8éÌĞ‰Ô1
+L	java:S106P"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8îÌĞ‰Ô1
+L	java:S106R"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8îÌĞ‰Ô1
+L
+java:S1940")Use the opposite operator (">=") instead.(¦¤¬˜ùÿÿÿÿ8ïÌĞ‰Ô1

@@ -1,0 +1,12 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8ö¾ŸìÓ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ïšÄ8ø¾ŸìÓ1
+J
+java:S1604"(Make this anonymous inner class a lambda(¯™¡Öüÿÿÿÿ8ù¾ŸìÓ1
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÂŠ—­úÿÿÿÿ8û¾ŸìÓ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òºáó8ý¾ŸìÓ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ÿ’8ƒ¿ŸìÓ1
+L	java:S106D"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ8†¿ŸìÓ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÂúŸìÓ1

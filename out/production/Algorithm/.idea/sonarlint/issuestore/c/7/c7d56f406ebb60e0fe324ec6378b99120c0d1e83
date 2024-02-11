@@ -1,0 +1,8 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨°Ô‹ÿÿÿÿÿ
+*
+java:S1700U"Rename field "queue"(¥‡íí
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õèÕÍüÿÿÿÿ
+@	java:S1060"+Replace this use of System.out by a logger.(Œ­ÿ…
+W
+java:S1126y"AReplace this if-then-else statement by a single return statement.(šŸ¸Ô

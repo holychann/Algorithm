@@ -1,0 +1,24 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8àÈí¹Ô1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¹÷8áÈí¹Ô1
+i	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì³®ƒ8ãÈí¹Ô1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õèÕÍüÿÿÿÿ8åÈí¹Ô1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ8‰Êí¹Ô1
+Z
+java:S1854"8Remove this useless assignment to local variable "test".(¶İÄ›üÿÿÿÿ8‰Êí¹Ô1
+K
+java:S1481")Remove this unused "test" local variable.(¶İÄ›üÿÿÿÿ8ŠÊí¹Ô1
+L	java:S106K"+Replace this use of System.out by a logger.(óŠÕÎÿÿÿÿÿ8ŒÊí¹Ô1
+G	java:S106M"+Replace this use of System.out by a logger.(ô¤„å8ŒÊí¹Ô1
+n
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ñ‚ïz8ŒÊí¹Ô1
+T
+java:S1854€"6Remove this useless assignment to local variable "dy".(©õ8Êí¹Ô1
+X
+java:S1854"6Remove this useless assignment to local variable "dx".(ó¢Õ¿ıÿÿÿÿ8Êí¹Ô1
+I
+java:S1481"'Remove this unused "dx" local variable.(ó¢Õ¿ıÿÿÿÿ8Êí¹Ô1
+E
+java:S1481€"'Remove this unused "dy" local variable.(©õ8Êí¹Ô1

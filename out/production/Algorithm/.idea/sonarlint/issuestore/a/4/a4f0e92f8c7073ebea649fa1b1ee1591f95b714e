@@ -1,0 +1,21 @@
+
+L
+java:S10668"/Merge this if statement with the enclosing one.(ºÀËæ8İÆ‚©Ó1
+Q
+java:S1066@"/Merge this if statement with the enclosing one.(öîÜÿÿÿÿÿ8àÆ‚©Ó1
+L
+java:S1066I"/Merge this if statement with the enclosing one.(®˜Ô±8ãÆ‚©Ó1
+L
+java:S1066R"/Merge this if statement with the enclosing one.(ÓÿØ·8äÆ‚©Ó1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¹÷8åÆ‚©Ó1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8åÆ‚©Ó1
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’Éê›8åÆ‚©Ó1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õèÕÍüÿÿÿÿ8æÆ‚©Ó1
+t
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ8ËÇ‚©Ó1
+G	java:S106i"+Replace this use of System.out by a logger.(â¯˜‚8ĞÇ‚©Ó1
+L	java:S106k"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8ĞÇ‚©Ó1
+è
+java:S6541
+"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 68 to 64, Complexity from 17 to 14, Nesting Level from 3 to 2, Number of Variables from 23 to 6.(ÙØ¤Şıÿÿÿÿ8ÑÇ‚©Ó1

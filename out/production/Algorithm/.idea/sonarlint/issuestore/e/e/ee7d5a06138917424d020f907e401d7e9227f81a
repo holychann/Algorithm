@@ -1,0 +1,7 @@
+
+t	java:S127H"XRefactor the code in order to not assign to this loop counter from within the loop body.(љЉСР8ДЅЮеТ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ЗцЂБ8ДЅЮеТ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(яч—џьяяяя8ЕЅЮеТ1
+L	java:S106L"+Replace this use of System.out by a logger.(Ќ­ЛЦюяяяя8›ѕЮеТ1
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(јёх›8›ѕЮеТ1

@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ÷—Ÿüÿÿÿÿ8·ªÛæÒ1
+V
+java:S3518"9Make sure "max" can't be zero before doing this division.(™ƒ„8Œ™ãæÒ1
+X
+java:S1854"6Remove this useless assignment to local variable "sb".(€ê±Õúÿÿÿÿ8ÀªÛæÒ1
+I
+java:S1481"'Remove this unused "sb" local variable.(€ê±Õúÿÿÿÿ8ÂªÛæÒ1
+F	java:S106 "+Replace this use of System.out by a logger.(˜ô¹'8‘¦İæÒ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8™ãæÒ1

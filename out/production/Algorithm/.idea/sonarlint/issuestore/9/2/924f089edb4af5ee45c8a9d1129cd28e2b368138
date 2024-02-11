@@ -1,0 +1,8 @@
+
+Y
+java:S1854"7Remove this useless assignment to local variable "arr".(³°ôÖüÿÿÿÿ8œ ”Ó1
+J
+java:S1481"(Remove this unused "arr" local variable.(³°ôÖüÿÿÿÿ8 ”Ó1
+L	java:S106"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8óÇ ”Ó1
+H
+java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù8 ”Ó1

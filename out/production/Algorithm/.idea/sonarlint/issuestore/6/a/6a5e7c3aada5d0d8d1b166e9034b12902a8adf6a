@@ -1,0 +1,25 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òìÍòúÿÿÿÿ8×áûë×1
+d
+java:S2184J"BCast one of the operands of this division operation to a "double".(áüñøÿÿÿÿ8Øáûë×1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êŒ¯‹8Úáûë×1
+i
+java:S3008
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ ¬ï8èáûë×1
+i
+java:S3008
+"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ ¬ï8éáûë×1
+<
+java:S1659
+"Declare "M" on a separate line.(ğ ¬ï8ëáûë×1
+T
+java:S1854"7Remove this useless assignment to local variable "arr".(²Ã³æ8îáûë×1
+E
+java:S1481"(Remove this unused "arr" local variable.(²Ã³æ8ñáûë×1
+L	java:S1060"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8ôáûë×1
+b
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(Ì£¼8õáûë×1
+b
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(ÇøŞ8÷áûë×1
+N
+java:S2185J",Remove this unnecessary call to "Math.floor"(áüñøÿÿÿÿ8øáûë×1
