@@ -11,7 +11,7 @@ public class 절댓값_11286 {
 
         int N = Integer.parseInt(br.readLine());
 
-        // [절댓값, 원래값]
+        // [절댓값, 원래값], 비교자: 1순위 절댓값, 2순위 원래값
         PriorityQueue<int[]> priorityQueue = new PriorityQueue<>(new Comparator<int[]>() {
             @Override
             public int compare(int[] o1, int[] o2) {
@@ -31,13 +31,16 @@ public class 절댓값_11286 {
 
             if(command == 0){
                 if(priorityQueue.isEmpty()){
+                    // 큐가 Null 이면 0 출력
                     sb.append(0).append('\n');
                 } else {
-                    int[] poped = priorityQueue.poll();
-                    sb.append(poped[1]).append('\n');
+                    // 큐에서 가장 작은 값 출력
+                    int[] popped = priorityQueue.poll();
+                    sb.append(popped[1]).append('\n');
                 }
 
             } else {
+                // [절댓값, 원래값]으로 Queue 에 넣음
                 priorityQueue.add(new int[] {Math.abs(command), command});
             }
 
