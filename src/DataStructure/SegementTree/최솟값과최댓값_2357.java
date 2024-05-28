@@ -78,8 +78,12 @@ public class 최솟값과최댓값_2357 {
 
         int half = (int) Math.floor((start + end) / 2);
 
-        int[] left_node = end > left && left <= right ? getMinMax(node * 2, start, half, left, Math.min(right, half)) : new int[] {Integer.MAX_VALUE, 0};
-        int[] right_node = start < right && left <= right ? getMinMax(node * 2 + 1, half + 1, end, Math.max(left, half + 1), right) : new int[] {Integer.MAX_VALUE, 0};
+        int[] left_node = end > left && left <= right
+                ? getMinMax(node * 2, start, half, left, Math.min(right, half))
+                : new int[] {Integer.MAX_VALUE, 0};
+        int[] right_node = start < right && left <= right
+                ? getMinMax(node * 2 + 1, half + 1, end, Math.max(left, half + 1), right)
+                : new int[] {Integer.MAX_VALUE, 0};
 
         int[] result = new int[2];
         result[0] = Math.min(left_node[0], right_node[0]);
